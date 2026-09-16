@@ -1,4 +1,3 @@
-# GameOGW
 # Segredo do Vale
 
 **Segredo do Vale** é um jogo narrativo em pixel art com exploração, combate e atmosfera de mistério. O jogador acompanha um pequeno rato em uma jornada por cenários sombrios, passando por cabanas, vilas, ruínas e túneis de metrô enquanto descobre fragmentos de uma história maior ligada ao passado do protagonista.
